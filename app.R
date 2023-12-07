@@ -108,7 +108,7 @@ ui <- fluidPage(
                )
              )
     ),
-    tabPanel("Abandoned Properties Map",
+    tabPanel("Abandoned Properties",
              sidebarLayout(
                sidebarPanel(
                  # Abandoned Properties Map sidebarPanel content
